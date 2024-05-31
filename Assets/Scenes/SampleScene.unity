@@ -669,6 +669,8 @@ MonoBehaviour:
   magnitude: 3
   speed: 3
   startPosition: {x: -3, y: 0}
+  followTarget: {fileID: 1417202911}
+  follow: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
